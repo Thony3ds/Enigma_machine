@@ -3,7 +3,11 @@
 ## How to use:
 
 This is a simple app to crypt or decrypt in python with the simplify version of the Enigma system.
-This project have been make with Pycharm.
+This project have been make with Pycharm and Python3.10.
+
+You need Python 3 to run the programme. [Download python](https://www.python.org/downloads/)
+
+**To run this program run the file main.py with: *python3 main.py* or *python main.py* in your terminal**
 
 ## Last update documentation:
 
