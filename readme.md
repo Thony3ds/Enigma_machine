@@ -6,7 +6,7 @@ This is a simple app to crypt or decrypt in python with the simplify version of 
 
 ## Last update documentation:
 
-*See all the commits and update in the file:* [commits.md](https://github.com/Thony/Enimga_machine/commits.md)
+*See all the commits and update in the file:* [commits.md](https://github.com/Thony3ds/Enimga_machine/commits.md)
 
 **Last update V1.0.0:**\
 Enigma Machine with a crypt system but no decrypt system.
